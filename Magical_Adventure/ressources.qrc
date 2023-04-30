@@ -1,0 +1,24 @@
+<RCC>
+	<qresource prefix="/">
+		<file>gif/all.gif</file>
+		<file>gif/sprite-unscreen.gif</file>
+		<file>gif/sprite-2-unscreen.gif</file>
+		<file>gif/sprite-run-unscreen.gif</file>
+		<file>gif/sprite-run2-unscreen.gif</file>
+		<file>gif/sprite.gif</file>
+		<file>gif/sprite-2.gif</file>
+		<file>gif/sprite-run.gif</file>
+		<file>gif/sprite-run2.gif</file>
+		<file>gif/fire.gif</file>
+		<file>gif/forest.gif</file>
+		<file>gif/chill.gif</file>
+		<file>gif/lava.gif</file>
+		<file>gif/cascada.gif</file>
+		<file>gif/air.png</file>
+		<file>gif/air2.png</file>
+		<file>gif/jump.png</file>
+		<file>gif/jump2.png</file>
+		<file>gif/fond2.jpg</file>
+
+	</qresource>
+</RCC>
